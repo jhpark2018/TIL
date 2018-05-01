@@ -5,10 +5,10 @@
 ### Python
 Hello!
 
-# python
-# CSS
-# html
+* python
+* CSS
+* html
 
 ## 20180502
-# class
-# function
+* class
+* function
