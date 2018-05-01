@@ -10,8 +10,8 @@ Hello!
 * html
 
 ## 20180502
+* list
 * class
-* function
 
 ## 20180503
 * etc
